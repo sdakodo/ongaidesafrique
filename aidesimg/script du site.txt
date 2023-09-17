@@ -1,0 +1,15 @@
+crée moi une page web de couleurs domminante le vert,avec html et css si possible js.
+sur la page nous avont cinq div (div1,div2,div3,div4 et div5) sour forme de colonne
+la page a un logo (logo.png) a gauche de l'écran de et a droite pour menu :Acceuil,A propos de nous, Formation,Education,Dons reçus et Nous contacter et à droite un bouton "Faire un don" (quand on survole un menu il doit changer de couleur ou une ramarque de survole).
+sur la page on a dans le div1 trois images qui défile chaque 10 s les une après les autres,
+sur la premier image un texte de bienvenu et en bas à gauche de l'image(df.pg) un bouton "en savoir plus...",sur la deuxième image de un message "impactez l'afrique" en bas à gauche de l'image(df.pg) un bouton "en savoir plus..."; et sur
+la troisième image de un message "Aides Afrique" en bas à gauche de l'image(df.pg) un bouton "en savoir plus...".
+dans le div2 nous avons une image (dd.png) en arriere plan.
+sur l'image une breve desciprion;ensuite sur l'image quatre divs (bien jolie de font blanc de boder radious :10px) composé chacune d'un titre, d'une image (df.png) et d'une breve desciption..les divs sont responsives
+dans le div3 en bas de la grande div qui a aussi quatre (bien jolie de font blanc de boder radious :10px) divs composé chacune d'un titre et  en bas à gauche nous avont un bouton "faire un don";
+dans le div4 en bas de la grande div qui a un formulaire de saisir contacter nous qui a aussi les icone de facebook,intagramme,gmail,youtube
+dans le div5 nous avons une carte google map  et enfin le pied de page.
+nb: que la page soit jolie et bien responsive et reponde à l'exercice.
+tu écrire de a à z chaque code :html,css et js.
+là oû il y a desciption du met une quelqu'onque chose simple.
+l'image du logo doit etre petite adaptée comme un logo sur une page web et les autres image aussi doive etre bien adaptée dans leur cintext sans déborder

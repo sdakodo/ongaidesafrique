@@ -1,0 +1,30 @@
+rédige moi le contenu d'une page web(htm et css) de la rubrique "Accueil" pour presenter une ONG appeler "ONG-AIDES-AFRIQUES" qui a pour but de faire la promotion de la formation professionnelle ,la promotion  de l'excélence en milieu scolaire,Culture sport et loisir,Lutte contre les maladies endermiques .Merci
+Le logo de l'ong à gauche en haut de la page.
+voici les menus du cite:
+"Accueil"
+"A propos de nous"
+"Formations"
+"Education"
+"Faire un don"
+"Aides"
+"Groupe le point"
+"Nous contacter".
+En bas de la page ajoutes les conatcts(numero de tel,mail de l'ONG,Adresse géographique);un champ pour que les utilisateurs envoir un message ;leur mail et leur non;un "Rejoignez-nous  pour les différent réseaux sociaux(facebook,instagram,youtube et twitter)(logo)..
+NB : le code html et css dans le même fichier,que la page soit très jolie avec couleur dominante le vert claire et deux photos d'illustration.Merci
+Que la page soit très responsive.
+Contenu : 
+Excelence en milieu 
+scolaire...
+En promouvant l'excellence en 
+milieu scolaire..
+(Propose le conetenur correspondant les mieux adapter) 
+Culture, sport et loisir...
+(Propose le conetenur correspondant les mieux adapter)
+Education de qualité...
+(Propose le conetenur correspondant les mieux adapter)
+Lutte contre les maladies 
+endermiques...
+(Propose le conetenur correspondant les mieux adapter)
+NB :après une photo d'accueil, mets les éléments dans des 'carreau" "div" html deux en haut desux en bas l'un à coté de l'autre...
+que les photos soient gérées responsives adaptées au navigateur,qu'elle s'addaptent et ne débordent pas..
+que les contacts(numero de tel,mail de l'ONG,Adresse géographique) soient à droite devant le formulaire d'enoie de message...

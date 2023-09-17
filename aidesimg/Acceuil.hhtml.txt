@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ONG-AIDES-AFRIQUES</title>
+	<style>
+		body {
+			background-color: #f5f5f5;
+			color: #333;
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		
+		header {
+			background-color: #009933;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+		
+		h1 {
+			margin-top: 0;
+		}
+		
+		nav {
+			background-color: #f1f1f1;
+			border-top: 4px solid #009933;
+			display: flex;
+			justify-content: space-between;
+			padding: 10px;
+		}
+		
+		nav a {
+			color: #333;
+			text-decoration: none;
+		}
+		
+		nav a:hover {
+			color: #009933;
+		}
+		
+		section {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			padding: 20px;
+		}
+		
+		article {
+			background-color: #fff;
+			border-radius: 5px;
+			box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+			margin: 20px;
+			padding: 20px;
+			width: 300px;
+		}
+		
+		h2 {
+			color: #009933;
+			font-size: 1.5rem;
+			margin-top: 0;
+		}
+		
+		p {
+			line-height: 1.5;
+			margin: 10px 0;
+		}
+		
+		footer {
+			background-color: #009933;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+		}
+		
+		footer p {
+			margin: 0;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>ONG-AIDES-AFRIQUES</h1>
+		<p>Promouvoir la formation professionnelle et l'excellence en milieu scolaire en Afrique</p>
+	</header>
+	
+	<nav>
+		<a href="#">Accueil</a>
+		<a href="#">À propos</a>
+		<a href="#">Programmes</a>
+		<a href="#">Participer</a>
+		<a href="#">Contact</a>
+	</nav>
+	
+	<section>
+		<article>
+			<h2>Formation professionnelle</h2>
+			<p>Nous offrons une variété de programmes de formation professionnelle, allant de la formation technique et professionnelle à la formation en entrepreneuriat.</p>
+		</article>
+		
+		<article>
+			<h2>Excellence scolaire</h2>
+			<p>Nous offrons des bourses pour les élèves méritants, ainsi que des programmes de tutorat pour aider les élèves à surmonter les difficultés scolaires.</p>
+		</article>
+	</section>
+	
+	<footer>
+		<p>Copyright © 2023 ONG-AIDES-AFRIQUES - Tous droits réservés</p>
+	</footer>
+</body>
+</html>
